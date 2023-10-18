@@ -1,2 +1,16 @@
 Aluno: Maria Talita Costa pereira
 atividade
+
+ 1- um "commit" refere-se a uma operação que registra as mudanças feitas em um repositório de código-fonte.
+ 2- Um "branch" é um termo comum usado em sistemas de controle de versão, como Git, para se referir a uma linha de desenvolvimento separada que se origina a partir de uma linha principal de código-fonte.
+ 3- Refere-se ao processo de combinar as alterações feitas em diferentes branches (ramos) de um projeto de software em um único branch, normalmente o branch principal, como o "master" ou "main".
+ 4- é a linha de desenvolvimento principal do projeto. É a branch onde o código principal do projeto é desenvolvido e mantido. Geralmente, a "branch principal" é a base a partir da qual outras branches (ramificações) são criadas para desenvolver recursos ou corrigir bugs.
+ 5- significa criar uma cópia local de um repositório GitHub em sua própria máquina. Isso permite que você trabalhe com os arquivos do repositório, faça alterações, crie commits e contribua para o projeto. 
+ 6- é um termo usado em sistemas de controle de versão, como o Git, para enviar as alterações feitas em um repositório local de volta para um repositório remoto. Especificamente, quando você faz um "push", está enviando seus commits (alterações) locais para um repositório remoto, tornando essas alterações disponíveis para outros colaboradores e atualizando o histórico do repositório remoto.
+ 7- é uma operação que permite a obtenção (ou seja, trazer) as atualizações mais recentes de um repositório remoto para o seu repositório local. 
+ 8- O "add" é usado para preparar alterações locais para serem incluídas no próximo commit.
+ 9- refere-se à ação de preparar as alterações feitas nos arquivos do seu repositório local para serem incluídas em um próximo commit. O termo "staged" é frequentemente usado quando você usa o comando git add no Git para adicionar (ou "stage") as alterações feitas em seus arquivos à área de preparação (staging area) do repositório.
+ 10- refere a uma "versão" ou "release" específica de um software ou projeto. Quando os desenvolvedores de software querem marcar um ponto significativo em seu projeto, eles criam uma "versão" (ou "release") para indicar que aquele conjunto de alterações está em um estado específico e pode ser considerado uma versão estável do software.
+ 11- é uma localização de armazenamento centralizada que é usada para armazenar e gerenciar arquivos, dados ou informações, geralmente relacionados a um projeto específico. No contexto do desenvolvimento de software e do GitHub, um repositório é um local onde você armazena, organiza e controla as versões de código-fonte do seu projeto.
+
+
